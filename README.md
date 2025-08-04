@@ -48,15 +48,17 @@ React · Spring Boot · MariaDB를 활용한 풀스택 개발을 공부하고 �
 ---
 
 ## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourname&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourname&layout=compact&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=VoidRayA&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VoidRayA&layout=compact&theme=tokyonight)
+
+---
+
+## 🐍 Contribution Snake
+![Snake animation](https://github.com/VoidRayA/VoidRayA/blob/output/snake.svg)
 
 ---
 
 ## 📫 Contact
-- Email : yourname@email.com  
+- Email : your.email@example.com  
 - Portfolio (Notion) : [Notion 링크](https://notion.site/yourname)  
 - LinkedIn : [linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=VoidRayA&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VoidRayA&layout=compact&theme=tokyonight)
