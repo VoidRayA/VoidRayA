@@ -49,12 +49,22 @@ React · Spring Boot · MariaDB를 활용한 풀스택 개발을 공부하고 �
 
 ## 📈 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=VoidRayA&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VoidRayA&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VoidRayA&layout=compact&theme=tokyonight)  
 
 ---
 
-## 🐍 Contribution Snake
-![Snake animation](https://github.com/VoidRayA/VoidRayA/blob/output/snake.svg)
+## 🔥 GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VoidRayA&theme=tokyonight&hide_border=true)
+
+---
+
+## 🏆 Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=VoidRayA&theme=tokyonight&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 📊 Visitors
+![Visitors](https://komarev.com/ghpvc/?username=VoidRayA&label=Profile%20Views&color=blue&style=flat)
 
 ---
 
