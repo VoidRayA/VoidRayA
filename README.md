@@ -57,3 +57,6 @@ React · Spring Boot · MariaDB를 활용한 풀스택 개발을 공부하고 �
 - Email : yourname@email.com  
 - Portfolio (Notion) : [Notion 링크](https://notion.site/yourname)  
 - LinkedIn : [linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=VoidRayA&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VoidRayA&layout=compact&theme=tokyonight)
