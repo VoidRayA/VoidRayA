@@ -98,9 +98,9 @@ React · Spring Boot · MariaDB를 활용한 풀스택 개발을 공부하고 �
 ---
 
 ## 📫 Contact
-- Email : [dbwlrltk@naver.com](mailto:dbwlrltk@naver.com)
-- Portfolio (Notion) : [Notion 링크](https://notion.site/yourname)  
+- Portfolio (Notion) : 
 - LinkedIn : [linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
+- GitHub Issues : 이 레포에 이슈 남겨주셔도 됩니다
 
 ---
 
@@ -203,6 +203,6 @@ React · Spring Boot · MariaDBを活用したフルスタック開発を学習�
 ---
 
 ## 📫 連絡先
-- Email : [dbwlrltk@naver.com](mailto:dbwlrltk@naver.com)
-- ポートフォリオ (Notion) : [Notion リンク](https://notion.site/yourname)  
+- ポートフォリオ (Notion) : 
 - LinkedIn : [linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
+- GitHub Issues : [プロフィールリポジトリのIssueから連絡](https://github.com/VoidRayA/VoidRayA/issues)
