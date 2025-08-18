@@ -1,5 +1,5 @@
 # 🌏 Language / 言語
-[🇰🇷 한국語](./README.md) | [🇯🇵 日本語](./README_JP.md)
+[🇰🇷 한국어](./README.md) | [🇯🇵 日本語](./README_JP.md)
 
 # 👋 Hi, I'm 유지현  
 
