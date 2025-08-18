@@ -22,6 +22,7 @@ React · Spring Boot · MariaDB를 활용한 풀스택 개발을 공부하고 �
 ### 📖 Learning / Studying (국비과정 & 프로젝트 경험)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)  ![MariaDB](https://img.shields.io/badge/MariaDB-03545?style=for-the-badge&logo=mariadb&logoColor=white)  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 
+→ 국비 지원 과정과 팀 프로젝트를 통해 실무와 유사한 경험을 쌓음  
 ---
 
 ## 🌱 About Me
@@ -107,6 +108,24 @@ React · Spring Boot · MariaDBを活用したフルスタック開発を学習�
 現在は **日本でのIT就職** を目標に準備を進めています 🇯🇵  
 
 ---
+
+## 💻 Tech Stack
+
+### ✅ Main Skills (업무 경험)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)  
+→ ERPおよび社内プログラム開発経験  
+
+![PowerBuilder](https://img.shields.io/badge/PowerBuilder-FF6F00?style=for-the-badge&logo=apachespark&logoColor=white)  
+→ 社内ソリューション保守・機能開発  
+
+---
+
+### 📖 Learning / Studying (국비과정 & 프로젝트 경험)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)  ![MariaDB](https://img.shields.io/badge/MariaDB-03545?style=for-the-badge&logo=mariadb&logoColor=white)  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+
+→ 国費支援プログラムおよびチームプロジェクトを通じて実務に近い経験を習得  
+---
+
 
 ## 🚀 プロジェクト
 
