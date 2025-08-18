@@ -98,7 +98,7 @@ React · Spring Boot · MariaDB를 활용한 풀스택 개발을 공부하고 �
 ---
 
 ## 📫 Contact
-- Email : **(실제 이메일 기입 필요)**  
+- Email : [dbwlrltk@naver.com](mailto:dbwlrltk@naver.com)
 - Portfolio (Notion) : [Notion 링크](https://notion.site/yourname)  
 - LinkedIn : [linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
 
@@ -203,6 +203,6 @@ React · Spring Boot · MariaDBを活用したフルスタック開発を学習�
 ---
 
 ## 📫 連絡先
-- Email : **（実際に使用しているメールを入力してください）**  
+- Email : [dbwlrltk@naver.com](mailto:dbwlrltk@naver.com)
 - ポートフォリオ (Notion) : [Notion リンク](https://notion.site/yourname)  
 - LinkedIn : [linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
