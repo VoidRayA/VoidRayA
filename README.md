@@ -99,7 +99,7 @@ React · Spring Boot · MariaDB를 활용한 풀스택 개발을 공부하고 �
 
 ## 📫 Contact
 - Portfolio (Notion) : 
-- LinkedIn : [linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
+- LinkedIn : 
 - GitHub Issues : 이 레포에 이슈 남겨주셔도 됩니다
 
 ---
@@ -204,5 +204,5 @@ React · Spring Boot · MariaDBを活用したフルスタック開発を学習�
 
 ## 📫 連絡先
 - ポートフォリオ (Notion) : 
-- LinkedIn : [linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
+- LinkedIn : 
 - GitHub Issues : [プロフィールリポジトリのIssueから連絡](https://github.com/VoidRayA/VoidRayA/issues)
